@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Noarha+Amante+Fernandes+Luna!;" />
+</h1>
+<h3>Desenvolvedor Fullstack </h3>
+
+##
+
+- 😁 Cursando técnico em desenvolvimento de sistemas
+- Atualmente estou estudando Python para back-end
+- 📩 Email para contato: noarha@gmail.com
 
 <!--
 **Noarha/Noarha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
